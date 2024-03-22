@@ -1,0 +1,17 @@
+{
+  "name": "nonillum",
+  "version": "1.0.0",
+  "description": "Tool to provide safe conversion between units in BTC and ETH",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MariahGreen/nonillum.git"
+  },
+  "author": "GaetanoBeatty",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.0",
+    "nyc": "^15.1.0"
+  }
+}
